@@ -1,5 +1,7 @@
 # 2024-logia-domiko-submission
 
+<img alt="Discord" src="https://img.shields.io/discord/1334954823598084217">
+
 ----------------------------------
 
 
