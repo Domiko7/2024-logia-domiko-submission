@@ -5,7 +5,7 @@
 
 # What is LOGIA?
 
-**LOGIA** is an informatics (computer science) competition for students in grades **IV–VIII** of primary schools in the **Mazowieckie Province** (Poland).  
+**LOGIA** is an informatics (computer science) competition for students of schools in the **Mazowieckie Province** (Poland).  
 It focuses on building skills in **logical thinking**, **problem-solving**, and **algorithmic thinking** through tasks implemented mainly in **Python**.
 
 The competition includes:
@@ -23,7 +23,7 @@ Participants solve increasingly challenging problems to develop computational th
 ----------------------------------
 
 # Program and Literature List
-## Subject Competition in Informatics "LOGIA" for Students of Grades IV–VIII of Primary Schools in the Mazowieckie Province, School Year 2024/2025
+## Subject Competition in Informatics "LOGIA" for Students of Schools in the Mazowieckie Province, School Year 2024/2025
 
 ### Main Objectives:
 - Understanding, analyzing, and solving problems through logical, abstract, and algorithmic thinking.
